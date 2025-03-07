@@ -56,7 +56,7 @@ python bw2color_image.py --prototxt model/colorization_deploy_v2.prototxt --mode
 ![Grayscale Image](images/test2.jpeg)
 
 ### Output Image
-![Colorized Image](images/test2_colorized.jpeg)
+![Colorized Image](images/test2_colorized.jpg)
 
 ## Future Enhancements
 - Implementing real-time video colorization.
